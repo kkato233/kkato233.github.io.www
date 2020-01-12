@@ -1,3 +1,6 @@
 [submodule "src/wwwroot"]
 	path = src/wwwroot
 	url = https://github.com/kkato233/kkato233.github.io
+[submodule "src/ken_all_mdb"]
+	path = src/ken_all_mdb
+	url = https://github.com/kkato233/ken_all_mdb
