@@ -1,0 +1,3 @@
+[submodule "src/wwwroot"]
+	path = src/wwwroot
+	url = https://github.com/kkato233/kkato233.github.io
