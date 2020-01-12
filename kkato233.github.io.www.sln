@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "kkato233.github.io.www", "kkato233.github.io.www.csproj", "{C3844568-6C84-4F16-9D7B-41B44DE04310}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "kkato233.github.io.www", "src\kkato233.github.io.www.csproj", "{C3844568-6C84-4F16-9D7B-41B44DE04310}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{995C6092-45CE-452B-816B-DAA7E1AF5517}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

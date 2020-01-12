@@ -24,9 +24,18 @@ https://git-scm.com/book/ja/v2/Git-のさまざまなツール-サブモジュ�
 
 を参照。
 
-## 動作確認方法
+## 開発方法
 
+Visual Studio で開いて ブラウザで表示。
+または、
 ```
-start http://localhost:5000/
+cd src
 dotnet run
 ```
+
+http://localhost:5002/
+http://localhost:5002/ken_all_mdb/index.html
+
+を開く
+
+
